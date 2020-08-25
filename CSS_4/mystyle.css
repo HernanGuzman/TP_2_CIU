@@ -1,0 +1,29 @@
+.styleImperio {
+    background-color:red;
+  }
+  .styleRebelde {
+    background-color:blue;
+  }
+  #letraDarthVader{
+    font-size: large;
+  }
+
+  #luke{
+    font-style: italic;
+  }
+
+  .bordesSoldados{
+    border-style: dotted;
+  }
+
+  .espacioLetras{
+    letter-spacing: 2px;
+  }
+
+  .alineadasCentro{
+    text-align: center;
+  }
+
+  .mayusculas{
+    text-transform: uppercase;
+  }
