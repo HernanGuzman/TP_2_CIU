@@ -1,0 +1,47 @@
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  padding: 16px 32px;
+  text-align: center;
+  color: rgb(196, 166, 128);
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 6px 40px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  font-style: normal;
+  
+}
+
+.buttonAzul {
+  background-color: #145c6ef5;
+  color: white;
+}
+
+.buttonAzul:hover {
+  
+  background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+}
+
+.formulario{
+  display: table;
+}
+
+
+.fila{
+  display: table-row;
+  font-style: inherit;
+  font-weight: bold;
+  font-size: 20px;
+}   
+label { 
+  display: table-cell; 
+}
+input { 
+  display: table-cell; 
+}
+
+
